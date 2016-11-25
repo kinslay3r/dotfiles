@@ -74,7 +74,7 @@ set smartcase                         " Try and be smart about cases
 nnoremap j gj
 nnoremap k gk
 " Appearance {{{2
-" set number                          " Always show line numbers
+set number                          " Always show line numbers
 set numberwidth=3                     " Changed the width of line number columns
 set listchars=tab:\|\ ,trail:·,eol:¬  " Use new symbols for tabstops and EOLs
 set ts=2 sts=2 sw=2 noexpandtab       " Default tab stops
